@@ -1,0 +1,14 @@
+/* src/Button.css */
+.button {
+    width: 100%;
+    padding: 15px;
+    font-size: 1em;
+    background-color: #64a7eb;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .button:active {
+    background-color: #ccc;
+  }
+  

@@ -1,0 +1,18 @@
+/* src/Display.css */
+.display {
+    width: 100%;
+    background-color: #333;
+    color: #fff;
+    text-align: right;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .input {
+    font-size: 1.2em;
+  }
+  
+  .result {
+    font-size: 1.5em;
+  }
+  
